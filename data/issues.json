@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-09-05T22:15:37.006Z",
+  "repository": "james-guevara/project-dashboard",
+  "actions": [
+    {
+      "priority": "P0",
+      "title": "Complete Zarr-to-bcftools CNV signal parity validation",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/1",
+      "issue_number": 1,
+      "updated_at": "2026-09-02T20:17:38Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Validate PyPennCNV and PyQuantiSNP on SPARK and SSC WGS",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/7",
+      "issue_number": 7,
+      "updated_at": "2026-09-02T20:17:24Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Calibrate caller thresholds, concordance, recurrent-locus, batch, and population-frequency rules across cohorts",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/8",
+      "issue_number": 8,
+      "updated_at": "2026-09-02T20:17:25Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Add upstream genotype call-rate QC",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/9",
+      "issue_number": 9,
+      "updated_at": "2026-09-02T20:17:27Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Add LRR/BAF-based aneuploidy QC",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/10",
+      "issue_number": 10,
+      "updated_at": "2026-09-02T20:17:29Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Develop and validate sex-chromosome CNV calling",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/11",
+      "issue_number": 11,
+      "updated_at": "2026-09-02T20:17:31Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Run the G2MH workflow end to end for the WCPG release",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/12",
+      "issue_number": 12,
+      "updated_at": "2026-09-02T22:37:28Z"
+    },
+    {
+      "priority": "P0",
+      "title": "Compare the production G2MH outputs with the previous pipeline results",
+      "owner": "Unassigned",
+      "due": "Validation",
+      "tone": "red",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/13",
+      "issue_number": 13,
+      "updated_at": "2026-09-02T22:09:09Z"
+    },
+    {
+      "priority": "P1",
+      "title": "Export dashboard-manifest/v1 from pgs_pipeline",
+      "owner": "Unassigned",
+      "due": "Metadata",
+      "tone": "amber",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/2",
+      "issue_number": 2,
+      "updated_at": "2026-08-31T20:46:26Z"
+    },
+    {
+      "priority": "P1",
+      "title": "Add QuantiSNP run metadata contract",
+      "owner": "Unassigned",
+      "due": "Metadata",
+      "tone": "amber",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/4",
+      "issue_number": 4,
+      "updated_at": "2026-09-02T20:17:40Z"
+    },
+    {
+      "priority": "P2",
+      "title": "Define downstream analysis readiness criteria",
+      "owner": "Unassigned",
+      "due": "Action",
+      "tone": "gray",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/3",
+      "issue_number": 3,
+      "updated_at": "2026-08-31T20:46:29Z"
+    },
+    {
+      "priority": "P2",
+      "title": "Extend CNV burdens to the finalized QC-filtered genome-wide callset",
+      "owner": "Unassigned",
+      "due": "Action",
+      "tone": "gray",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/5",
+      "issue_number": 5,
+      "updated_at": "2026-09-02T20:17:19Z"
+    },
+    {
+      "priority": "P2",
+      "title": "Complete genome-wide gene, exon, and coding-overlap annotation",
+      "owner": "Unassigned",
+      "due": "Action",
+      "tone": "gray",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/6",
+      "issue_number": 6,
+      "updated_at": "2026-09-02T20:17:21Z"
+    },
+    {
+      "priority": "P2",
+      "title": "Freeze and hand off the versioned G2MH WCPG analysis release",
+      "owner": "Unassigned",
+      "due": "Action",
+      "tone": "gray",
+      "url": "https://github.com/james-guevara/project-dashboard/issues/14",
+      "issue_number": 14,
+      "updated_at": "2026-09-02T22:09:11Z"
+    }
+  ]
+}
