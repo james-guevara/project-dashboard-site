@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fpipelines\u002F[slug]","\u002Fpipelines\u002F[slug]\u002F[action]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
